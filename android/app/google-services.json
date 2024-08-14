@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433039933269",
+    "project_id": "helpinghands-a2b37",
+    "storage_bucket": "helpinghands-a2b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433039933269:android:4af799529535ae4ceab9dc",
+        "android_client_info": {
+          "package_name": "com.chamara.charity_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUclmvL2lQUuDc7wvJa604lch8OCLBis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
